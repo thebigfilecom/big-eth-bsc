@@ -1,11 +1,6 @@
 /**
- *Submitted for verification at BscScan.com on 2021-06-16
-*/
-
-/**
- * Flux (FLUX)
- * Run On Flux
- * runonflux.io home.runonflux.io api.runonflux.io docs.runonflux.io
+ * BigFile (BIG)
+ * thebigfile.com api.thebigfile.com
  */
 
 // SPDX-License-Identifier: MIT
